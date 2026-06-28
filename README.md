@@ -1,4 +1,4 @@
-# Process Manager
+# TUSK, a TUI process manger
 
 A terminal-based process manager built with [Textual](https://textual.textualize.io/) and [psutil](https://github.com/giampaolo/rodola/psutil).
 
