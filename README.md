@@ -22,7 +22,7 @@ A terminal-based process manager built with [Textual](https://textual.textualize
 
 ```bash
 # Clone the repository
-git clone <repo-url> && cd process-manager
+git clone https://github.com/53p3h2/tusk.git && cd process-manager
 
 # Create a virtual environment (recommended)
 python3 -m venv .venv
