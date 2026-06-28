@@ -22,8 +22,7 @@ A terminal-based process manager built with [Textual](https://textual.textualize
 
 ```bash
 # Clone the repository
-git clone <repo-url>
-cd process-manager
+git clone <repo-url> && cd process-manager
 
 # Create a virtual environment (recommended)
 python3 -m venv .venv
@@ -31,18 +30,6 @@ source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
-```
-
-### Creating the Repository (from scratch)
-
-```bash
-git init
-git add -A
-git commit -m "Initial commit"
-# Create a repo on GitHub, then:
-git remote add origin <repo-url>
-git branch -M main
-git push -u origin main
 ```
 
 ## Usage
