@@ -1,5 +1,7 @@
 # TUSK, a TUI process manager
 
+[📄 Documentation (PDF)](sepehr_fathali_tusk_doc.pdf)
+
 A terminal-based process manager for running and managing multiple shell commands concurrently.
 
 Built with [Textual](https://textual.textualize.io/) and [psutil](https://github.com/giampaolo/psutil).
